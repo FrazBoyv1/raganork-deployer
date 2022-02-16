@@ -4,8 +4,8 @@
     "logo": "https://i.imgur.com/63BrtyT.jpeg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/FrazBoyv1/Raganork",
-    "website":   "https://bit.ly/Raganork",
-    "success_url": "https://bit.ly/Raganork",
+    "website":   "https://t.me/freeappsmods",
+    "success_url": "https://t.me/freeappsmods",
     "stack": "container",
     "env": {
         "RAGANORK_CODE": {
@@ -83,7 +83,7 @@
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 91xxxx && 91xxxx-1xxx or 91xxxxx,91xxxx...",
             "required": false,
-            "value": "919074309534"
+            "value": "910000000000"
         },
         "WORK_TYPE": {
             "description": "Raganork bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
@@ -146,7 +146,7 @@
         "OWNER_NAME": {
             "description": "Owner name used in many commands! Type your name here.",
             "required": false,
-            "value": "𝗢𝘄𝗻𝗲𝗿 𝗻𝗮𝗺𝗲 𝗵𝗲𝗿𝗲"
+            "value": "FrazBoy"
         },
         "TAG_HEADER": {
             "description": "Owner name used in many commands! Type your name here.",
@@ -156,7 +156,7 @@
         "TAG_REPLY": {
             "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
             "required": false,    
-            "value": "916282344739@s.whatsapp.net"
+            "value": "917994929427@s.whatsapp.net"
         },
         "ANTI_FAKE": {
             "description": "Fake number auto remover (Except Indian numbers)! Give true for activating!",
@@ -166,7 +166,7 @@
         "BOT_NAME": {
             "description": "Your bot's name. This is very important!",
             "required": false,
-            "value": "𝓑𝓞𝓣 𝓝𝓐𝓜𝓔 𝓗𝓔𝓡𝓔"
+            "value": "ZiaMwol"
              
         }
     },
